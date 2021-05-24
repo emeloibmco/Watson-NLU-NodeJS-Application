@@ -45,5 +45,14 @@ En la pestaña ***Machine Learning Model*** de click en ***Versions***, luego se
 Una vez se ha desplegado el modelo en el servicio, podrá ver el **Model-ID** el cual deberá copiar y pegar en un bloc de notas para su posterior uso en el paso 3.
 ## Paso 3
 ### Cambio de credenciales según el servicio creado
+En windows PowerShell, se debe ubicar en la carpeta Back del repositorio y modificar el archivo **params.json** con las credenciales de su servicio y modelo:
+- Para modificar el archivo, ejecute el comando 
+```
+nano params.json
+```
+Guarde los cambios con **Ctrl+s** y salga del editor con **Ctrl+x**
+## Paso 4
+### Ejecución local y prueba
+- Ejecutar los comandos ```npm install``` y ```npm start```. Al ejecutar el ultimo comando, se visualiza una direccion de localhost con su puerto correspondiente
 
 
