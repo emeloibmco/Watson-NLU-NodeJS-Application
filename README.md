@@ -28,6 +28,7 @@ IBM Watson™ Natural Lenguage Understanding es un servicio que ayuda a analizar
 - De click en ***Assets*** y luego en la pestaña ***Documents***, en la pagina de documentos, de click en ***Upload Documents Sets***, allí debe añadir el archivo **documents-new-copy.csv** que se encuentra en la carpeta ***Archivos*** de este repositorio. Este archivo contiene los relatos de los accidentes mencionados por las personas, si desea modificar los relatos debe hacerlo directamente en el archivo.
 - En la pestaña donde se encuentra el diccionario, debe seleccionar el tipo de entidad ***EVENT_DISASTER*** para comenzar a entrenar el modelo de aprendizaje automático.
 <p align="center"><img width="800" src="https://github.com/emeloibmco/Watson-NLU-NodeJS-Application/blob/main/Imagenes/Diccionario.jpg"></p>
+
 - En la pestaña ***Machine Learning Model***, de click en ***Pre-annotation*** y luego en ***Run Pre-annotators***, seleccione **Dictionary** y luego de click en **Next**, seleccione el documento **documents-new-copy.csv** y de click en **Run**.
 - Dirijase a la pestaña ***Annotations***, allí seleccione **Annotation Tasks** y luego de click en **Add task**, especifique los detalles de la tarea (Ej: En el campo **Task name** ingrese "Relatos" y en el campo **Deadline** seleccione una fecha en el futuro)
 - De click en ***Create Annotation Sets*** donde en el campo ***Annotator*** selecciona su usuario y en ***Set name*** le otorga un nombre al conjunto (Ej: Set1), finalmente de click en ***Generate*** y luego en ***Save***.
