@@ -113,7 +113,7 @@ Para el despliegue de la aplicación Frontend se deben ejecutar los mismos pasos
 3. Al correr la imagen creada en Docker, digitar el puerto 8080 en localhost y verificar el funcionamiento en el navegador con la direccion http://localhost:8080, allí se puede visualizar el siguiente resultado: <p align="center"><img width="800" src="https://github.com/emeloibmco/Watson-NLU-NodeJS-Application/blob/main/Imagenes/f1.jpg"></p>
 4. Finalmente, con la URL dada en Kubernetes se debe verificar y visualizar el mismo resultado dado en el numeral 2. <p align="center"><img width="800" src="https://github.com/emeloibmco/Watson-NLU-NodeJS-Application/blob/main/Imagenes/f2.jpg"></p>
 
-## Referencias
+## Referencias  :mag:
 * <a href="https://cloud.ibm.com/docs/watson-knowledge-studio?topic=watson-knowledge-studio-wks_tutintro">IBM Watson Knowledge Studio</a>
 * <a href="https://cloud.ibm.com/docs/natural-language-understanding?topic=natural-language-understanding-getting-started#getting-started-tutorial">IBM Watson Natural Lenguage Understanding</a>
 
