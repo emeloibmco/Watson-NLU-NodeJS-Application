@@ -1,6 +1,6 @@
 {
-  "nl_version": "2021-05-20",
-  "nl_api_key": "uDfbvyUYRf8RXLzbh2VcpxMFG8cn3xl7-_GbOwNDusaz",
-  "nl_url": "https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/04442d60-1c8c-464e-9219-1f26c00a2802",
-  "nl_model_id": "c83528b5-c601-4838-96b3-2e5664a4070a"
+  "nl_version": "Fecha de creación del servicio AAAA-MM-DD",
+  "nl_api_key": "API-KEY-NLU",
+  "nl_url": "URL-NLU",
+  "nl_model_id": "MODEL-ID"
 }
