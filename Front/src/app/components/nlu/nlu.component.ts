@@ -12,7 +12,7 @@ export class NluComponent {
   dataValues: any = [];
   message: any;
   nRow: any;
-  URL = "http://36286353-us-south.lb.appdomain.cloud:6001/upload-text" // "direccion backend";
+  URL = "direccion backend";
   ok: boolean = false;
   start: boolean = false;
 
